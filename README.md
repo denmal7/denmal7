@@ -33,4 +33,6 @@ My goal is to **build tech-driven solutions** that solve real-world business pro
 - **[Personal Finance Tracker](#)**  
   Fullstack app built with React, Node.js & MySQL to track income, expenses, and savings. Includes data visualization with charts.  
 
+- **[Movie/TV Show Explorer](#)**  
+  A modern React + TailwindCSS app that fetches data from the TMDB API. Features include infinite scroll, genre-based filtering, and a movie modal with trailers.  
 
