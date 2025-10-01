@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Dennis  
+# Hi there 👋, I'm Dennis Gitau
 
 🎓 Mathematics & Economics graduate turned Software Engineer  
 💻 3+ years of coding, passionate about integrating technology with business & entrepreneurship  
@@ -32,4 +32,5 @@ My goal is to **build tech-driven solutions** that solve real-world business pro
 
 - **[Personal Finance Tracker](#)**  
   Fullstack app built with React, Node.js & MySQL to track income, expenses, and savings. Includes data visualization with charts.  
+
 
