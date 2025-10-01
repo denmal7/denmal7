@@ -14,7 +14,9 @@
 **Frontend:**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
+ 
 
 **Backend & Tools:**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
@@ -30,3 +32,4 @@ My goal is to **build tech-driven solutions** that solve real-world business pro
 
 - **[Personal Finance Tracker](#)**  
   Fullstack app built with React, Node.js & MySQL to track income, expenses, and savings. Includes data visualization with charts.  
+
