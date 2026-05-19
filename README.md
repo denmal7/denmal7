@@ -20,6 +20,7 @@
  
 
 **Backend:**
+
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)  
