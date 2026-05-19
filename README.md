@@ -19,7 +19,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
  
 
-**Backend & Tools:**
+**Backend:**
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)  
