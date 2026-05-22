@@ -10,7 +10,8 @@
 **Languages:**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![PHP](https://shields.io)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+
 
 **Frontend:**  
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
