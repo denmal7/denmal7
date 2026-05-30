@@ -2,7 +2,7 @@
 
 🎓 Mathematics & Economics graduate turned Software Engineer  
 💻 4+ years of coding, passionate about integrating technology with business & entrepreneurship  
-🌱 Currently working with **JavaScript, React, Node.js & Express**, and loving **TailwindCSS** for styling  
+🌱 Currently working with **laravel, Bootstrap5, JavaScript, React, Node.js & Express**, and loving **TailwindCSS** for styling  
 🚀 I thrive at the intersection of **technology + business innovation**
 ﻿
 ## ⚒️ Tech Stack
